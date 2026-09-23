@@ -1,101 +1,137 @@
-# 🧠 Data Structures & Algorithms — LeetCode Solutions
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=DSA%20%26%20LeetCode%20Hub&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
-</p>
+<img src="assets/banner.svg" width="100%" alt="DSA · LeetCode Arsenal" />
 
-<p align="center">
-  <strong>Curated, optimized solutions to LeetCode and DSA problems with complexity analyses and clean code.</strong>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Solved-4-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Solved" />
-  <img src="https://img.shields.io/badge/Easy-1-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-3-ffc01e?style=for-the-badge" alt="Medium" />
-  <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard" />
-  <img src="https://img.shields.io/badge/Languages-C++%20|%20Python-informational?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/Daily%20Streak-Active%20🔥-critical?style=for-the-badge" alt="Streak" />
-</p>
+<!-- LeetCode Official Profile & Solved Badges -->
+<a href="https://leetcode.com/u/Yuvika687/">
+  <img src="https://img.shields.io/badge/LeetCode-Yuvika687-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b0d1a" alt="LeetCode Profile" />
+</a>
+<a href="https://leetcode.com/u/Yuvika687/">
+  <img src="https://img.shields.io/badge/solved-4-8b5cf6?style=for-the-badge&labelColor=0b0d1a" alt="solved" />
+</a>
+<img src="https://img.shields.io/badge/easy-1-2dd4bf?style=for-the-badge&labelColor=0b0d1a" alt="easy" />
+<img src="https://img.shields.io/badge/medium-3-fbbf24?style=for-the-badge&labelColor=0b0d1a" alt="medium" />
+<img src="https://img.shields.io/badge/hard-0-f472b6?style=for-the-badge&labelColor=0b0d1a" alt="hard" />
+
+<br/>
+
+<!-- Streak & Telemetry Badges -->
+<img src="https://img.shields.io/badge/🔥%20streak-active%20continuous-a3e635?style=flat-square&labelColor=0b0d1a" alt="current streak" />
+<img src="https://img.shields.io/badge/⚔️%20focus-patterns%20%26%20proofs-22d3ee?style=flat-square&labelColor=0b0d1a" alt="focus" />
+<img src="https://img.shields.io/badge/🛡️%20languages-C++%20%7C%20Python-8b5cf6?style=flat-square&labelColor=0b0d1a" alt="languages" />
+<img src="https://img.shields.io/github/last-commit/Yuvika687/LeetCode_solutions?style=flat-square&labelColor=0b0d1a&color=f472b6&label=last%20commit" alt="last commit" />
+
+<br/><br/>
+
+### ▶️ Algorithm Replay — Step-by-Step Execution
+
+<img src="assets/algo_replay.svg" width="100%" alt="Two Pointers Algorithm Trace" />
+
+> ⚡ **Dynamic Execution Trace:** Real-time state visualization of algorithmic pointer convergence, space allocation, and computational complexity proofs.
+
+<br/>
+
+### 🎮 Player Profile & RPG Stats
+
+<img src="assets/rpg_card.svg" width="100%" alt="RPG Player HUD" />
+
+<br/>
+
+**Quick Navigation:**
+<a href="#topic-matrix"><img src="https://img.shields.io/badge/🗂️%20topic%20matrix-0b0d1a?style=for-the-badge" alt="browse by topic" /></a>
+&nbsp;
+<a href="#master-log"><img src="https://img.shields.io/badge/📑%20master%20log-0b0d1a?style=for-the-badge" alt="master log" /></a>
+&nbsp;
+<a href="#achievements"><img src="https://img.shields.io/badge/🏆%20achievements-0b0d1a?style=for-the-badge" alt="achievements" /></a>
+&nbsp;
+<a href="#scaffold-cli"><img src="https://img.shields.io/badge/⚡%20scaffold%20cli-0b0d1a?style=for-the-badge" alt="cli" /></a>
+
+</div>
+
+<br/>
 
 ---
 
-## 📌 Philosophy & Daily Consistency
+<a id="achievements"></a>
 
-> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* — Will Durant
+## 🏆 Achievements & Badges
 
-This repository is maintained daily as part of deliberate practice for coding interviews, problem-solving mastery, and clean software craftsmanship. Every problem is categorized by topic and accompanied by:
-- 💡 **Intuition & Approach**: Why this technique works.
-- ⏱️ **Time & Space Complexity**: Big-$\mathcal{O}$ analysis.
-- 🧼 **Clean & Idiomatic Code**: Written following industry standards.
+| Badge | Title | Requirement | Status |
+|:---:|:---|:---|:---:|
+| 🛡️ | **Centurion** | Solve 100+ LeetCode problems | 🟡 In Progress (4/100 · 4%) |
+| 🔥 | **Habit Locked** | Maintain a 30-Day continuous streak | 🟡 Active Streak Engaged |
+| ⚡ | **Pyromancer** | Maintain a 50-Day continuous streak | 🔒 Locked |
+| 🌟 | **Century Flame** | Maintain a 100-Day continuous streak | 🔒 Locked |
+| 👥 | **Two Pointer Tactician** | Master convergent & sliding window pointers | **UNLOCKED** ✅ (Boats to Save People) |
+| 🎯 | **Binary Search Sniper** | Master monotonic answer space search | **UNLOCKED** ✅ (Koko Eating Bananas) |
+| 🔗 | **Linked List Alchemist** | Master pointer manipulation & carry logic | **UNLOCKED** ✅ (Add Two Numbers) |
+| 🗃️ | **Hash Map Maverick** | Master constant-time frequency lookups | **UNLOCKED** ✅ (Two Sum) |
+
+<br/>
+
+### ⚔️ The Daily Creed
+> *"We do not rise to the level of our goals, we fall to the level of our daily systems."*  
+> **Deliberate daily practice.** One problem solved, one pattern mastered, clean commits shipped.
+
+### 🎯 Active Quests & Milestones
+* 🗡️ **Daily Quest — Forge the Strike**: Solve at least 1 problem and push clean code today. *(Reward: +25 EXP · Streak Shield)*
+* 👹 **Weekly Boss — Contest Arena**: Compete in the official LeetCode Weekly / Biweekly Contest. *(Reward: +100 EXP · Rating Surge)*
+* 🏆 **Epic Milestone — Centurion**: Reach 100 categorized pattern solutions. *(Reward: +250 EXP · Title: Algorithm Warlord)*
+
+<br/>
 
 ---
 
-## 🗂️ Topic Breakdown
+<a id="topic-matrix"></a>
 
-| Topic | Solved | Status |
-| :--- | :---: | :---: |
-| 🗃️ [Arrays & Hashing](./Arrays-and-Hashing/) | 1 | 🟢 Active |
-| 🔗 [Linked List](./Linked-List/) | 1 | 🟢 Active |
-| 🎯 [Binary Search](./Binary-Search/) | 1 | 🟢 Active |
-| 👥 [Two Pointers](./Two-Pointers/) | 1 | 🟢 Active |
-| 🪟 Sliding Window | 0 | ⚪ Planned |
-| 📚 Stack | 0 | ⚪ Planned |
-| 🌲 Trees & Tries | 0 | ⚪ Planned |
-| 🏔️ Heap / Priority Queue | 0 | ⚪ Planned |
-| 🌐 Graphs & BFS/DFS | 0 | ⚪ Planned |
-| 🧩 Dynamic Programming | 0 | ⚪ Planned |
-| 💰 Greedy | 0 | ⚪ Planned |
+## 🗂️ Topic Matrix
+
+| Topic | Solved | Key Patterns | Status |
+| :--- | :---: | :--- | :---: |
+| 🗃️ [Arrays & Hashing](./Arrays-and-Hashing/) | 1 | Hash Map Complement Lookup, Prefix Sum | 🟢 Active |
+| 🔗 [Linked List](./Linked-List/) | 1 | Dummy Head, Pointer Traversal, Carry Arithmetic | 🟢 Active |
+| 🎯 [Binary Search](./Binary-Search/) | 1 | Search on Monotonic Answer Range $\mathcal{O}(\log N)$ | 🟢 Active |
+| 👥 [Two Pointers](./Two-Pointers/) | 1 | Greedy Boundary Convergence, Sort Pairing | 🟢 Active |
+| 🪟 Sliding Window | 0 | Fixed & Dynamic Window Sizing | ⚪ Planned |
+| 📚 Stack | 0 | Monotonic Stack, Parentheses Matching | ⚪ Planned |
+| 🌲 Trees & Tries | 0 | DFS, BFS, Prefix Tree Retrieval | ⚪ Planned |
+| 🏔️ Heap / Priority Queue | 0 | Top-K Elements, Median Finder | ⚪ Planned |
+| 🌐 Graphs & BFS/DFS | 0 | Topological Sort, Dijkstra, Union-Find | ⚪ Planned |
+| 🧩 Dynamic Programming | 0 | Memoization, Tabulation, Knapsack Patterns | ⚪ Planned |
+
+<br/>
 
 ---
+
+<a id="master-log"></a>
 
 ## 📑 Master Problem Log
 
-| # | Problem | Difficulty | Category | Language | Solution | Date Solved |
-| :-: | :--- | :-: | :--- | :-: | :-: | :-: |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | Arrays & Hashing | C++ | [View](./Arrays-and-Hashing/0001-Two-Sum/) | 2026-09-21 |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Medium` | Linked List | C++ | [View](./Linked-List/0002-Add-Two-Numbers/) | 2026-09-21 |
-| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | Binary Search | Python | [View](./Binary-Search/0875-Koko-Eating-Bananas/) | 2026-09-21 |
-| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Medium` | Two Pointers | Python | [View](./Two-Pointers/0881-Boats-to-Save-People/) | 2026-09-22 |
+| # | Problem | Difficulty | Category | Language | Complexity | Solution | Date Solved |
+| :-: | :--- | :-: | :--- | :-: | :-: | :-: | :-: |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | Arrays & Hashing | C++ | $\mathcal{O}(N)$ Time · $\mathcal{O}(N)$ Space | [Code](./Arrays-and-Hashing/0001-Two-Sum/) | 2026-09-21 |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Medium` | Linked List | C++ | $\mathcal{O}(\max(M, N))$ Time · $\mathcal{O}(1)$ Aux | [Code](./Linked-List/0002-Add-Two-Numbers/) | 2026-09-21 |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | Binary Search | Python | $\mathcal{O}(N \log M)$ Time · $\mathcal{O}(1)$ Space | [Code](./Binary-Search/0875-Koko-Eating-Bananas/) | 2026-09-21 |
+| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Medium` | Two Pointers | Python | $\mathcal{O}(N \log N)$ Time · $\mathcal{O}(1)$ Space | [Code](./Two-Pointers/0881-Boats-to-Save-People/) | 2026-09-22 |
+
+<br/>
 
 ---
 
-## 📂 Repository Architecture
+<a id="scaffold-cli"></a>
 
-```bash
-LeetCode_solutions/
-├── Arrays-and-Hashing/
-│   └── 0001-Two-Sum/
-│       ├── README.md           # Problem notes & complexity analysis
-│       └── solution.cpp        # Clean C++ implementation
-├── Binary-Search/
-│   └── 0875-Koko-Eating-Bananas/
-│       ├── README.md
-│       └── solution.py         # Python binary search implementation
-├── Linked-List/
-│   └── 0002-Add-Two-Numbers/
-│       ├── README.md
-│       └── solution.cpp
-├── Two-Pointers/
-│   └── 0881-Boats-to-Save-People/
-│       ├── README.md
-│       └── solution.py
-├── scripts/
-│   └── new_problem.py          # CLI scaffolder for rapid creation
-└── README.md
-```
+## ⚡ Scaffolder CLI Workflow
 
----
-
-## ⚡ Developer Workflow (Scaffolding New Solutions)
-
-A custom CLI tool is included in `scripts/new_problem.py` to auto-generate standardized problem folders, boilerplate code, and documentation badges.
+A custom automation engine is built in `scripts/new_problem.py` to scaffold new questions with zero friction.
 
 ### Interactive Mode:
 ```bash
 python3 scripts/new_problem.py
 ```
 
-### One-Liner Flag Mode:
+### Fast-Flag One-Liner:
 ```bash
 python3 scripts/new_problem.py \
   --number 121 \
@@ -108,8 +144,6 @@ python3 scripts/new_problem.py \
 ---
 
 ## 🏷️ Commit Message Standard
-
-To keep git history clean and professional:
 
 * `feat(0001): solve Two Sum in C++ with hash map [O(n)]`
 * `feat(0875): solve Koko Eating Bananas with binary search [O(n log m)]`
